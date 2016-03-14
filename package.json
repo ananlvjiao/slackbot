@@ -1,0 +1,21 @@
+{
+  "name": "slackbot",
+  "version": "0.0.1",
+  "description": "slack bot for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jian",
+  "license": "MIT",
+  "dependencies": {
+    "sugar": "~1.4.1",
+    "async": "^1.2.0",
+    "request": "^2.51.0",
+    "sha1": "~1.1.0",
+    "dotenv": "^1.1.0",
+    "botkit": "^0.0.8",
+    "github": "^0.2.4",
+    "node-trello":"^1.1.2"
+  }
+}
